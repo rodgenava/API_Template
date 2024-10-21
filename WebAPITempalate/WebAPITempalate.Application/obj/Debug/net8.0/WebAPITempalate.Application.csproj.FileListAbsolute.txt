@@ -1,0 +1,17 @@
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Application\bin\Debug\net8.0\WebAPITempalate.Application.deps.json
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Application\bin\Debug\net8.0\WebAPITempalate.Application.dll
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Application\bin\Debug\net8.0\WebAPITempalate.Application.pdb
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Application\bin\Debug\net8.0\WebAPITempalate.Domain.dll
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Application\bin\Debug\net8.0\WebAPITempalate.Infrastructure.dll
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Application\bin\Debug\net8.0\WebAPITempalate.Domain.pdb
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Application\bin\Debug\net8.0\WebAPITempalate.Infrastructure.pdb
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Application\obj\Debug\net8.0\WebAPITempalate.Application.csproj.AssemblyReference.cache
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Application\obj\Debug\net8.0\WebAPITempalate.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Application\obj\Debug\net8.0\WebAPITempalate.Application.AssemblyInfoInputs.cache
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Application\obj\Debug\net8.0\WebAPITempalate.Application.AssemblyInfo.cs
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Application\obj\Debug\net8.0\WebAPITempalate.Application.csproj.CoreCompileInputs.cache
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Application\obj\Debug\net8.0\WebAPITe.C10A3F02.Up2Date
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Application\obj\Debug\net8.0\WebAPITempalate.Application.dll
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Application\obj\Debug\net8.0\refint\WebAPITempalate.Application.dll
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Application\obj\Debug\net8.0\WebAPITempalate.Application.pdb
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Application\obj\Debug\net8.0\ref\WebAPITempalate.Application.dll

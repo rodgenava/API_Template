@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C127B9C1-87BA-4719-9DE8-B53AEEA5B223}|WebAPITempalate\\WebAPITempalate.API.csproj|c:\\users\\rnava\\myproject\\mytestproject\\webapitempalate\\webapitempalate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C127B9C1-87BA-4719-9DE8-B53AEEA5B223}|WebAPITempalate\\WebAPITempalate.API.csproj|solutionrelative:webapitempalate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C127B9C1-87BA-4719-9DE8-B53AEEA5B223}|WebAPITempalate\\WebAPITempalate.API.csproj|c:\\users\\rnava\\myproject\\mytestproject\\webapitempalate\\webapitempalate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C127B9C1-87BA-4719-9DE8-B53AEEA5B223}|WebAPITempalate\\WebAPITempalate.API.csproj|solutionrelative:webapitempalate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C127B9C1-87BA-4719-9DE8-B53AEEA5B223}|WebAPITempalate\\WebAPITempalate.API.csproj|c:\\users\\rnava\\myproject\\mytestproject\\webapitempalate\\webapitempalate\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C127B9C1-87BA-4719-9DE8-B53AEEA5B223}|WebAPITempalate\\WebAPITempalate.API.csproj|solutionrelative:webapitempalate\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C127B9C1-87BA-4719-9DE8-B53AEEA5B223}|WebAPITempalate\\WebAPITempalate.API.csproj|c:\\users\\rnava\\myproject\\mytestproject\\webapitempalate\\webapitempalate\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C127B9C1-87BA-4719-9DE8-B53AEEA5B223}|WebAPITempalate\\WebAPITempalate.API.csproj|solutionrelative:webapitempalate\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8F7F5A-E2AC-4838-BF2A-C32B4D220E9A}|WebAPITempalate.Infrastructure\\WebAPITempalate.Infrastructure.csproj|c:\\users\\rnava\\myproject\\mytestproject\\webapitempalate\\webapitempalate.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8F7F5A-E2AC-4838-BF2A-C32B4D220E9A}|WebAPITempalate.Infrastructure\\WebAPITempalate.Infrastructure.csproj|solutionrelative:webapitempalate.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8F7F5A-E2AC-4838-BF2A-C32B4D220E9A}|WebAPITempalate.Infrastructure\\WebAPITempalate.Infrastructure.csproj|c:\\users\\rnava\\myproject\\mytestproject\\webapitempalate\\webapitempalate.infrastructure\\interfacesrepo\\ipricebook2itemsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8F7F5A-E2AC-4838-BF2A-C32B4D220E9A}|WebAPITempalate.Infrastructure\\WebAPITempalate.Infrastructure.csproj|solutionrelative:webapitempalate.infrastructure\\interfacesrepo\\ipricebook2itemsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8F7F5A-E2AC-4838-BF2A-C32B4D220E9A}|WebAPITempalate.Infrastructure\\WebAPITempalate.Infrastructure.csproj|c:\\users\\rnava\\myproject\\mytestproject\\webapitempalate\\webapitempalate.infrastructure\\repositories\\pricebook2itemsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8F7F5A-E2AC-4838-BF2A-C32B4D220E9A}|WebAPITempalate.Infrastructure\\WebAPITempalate.Infrastructure.csproj|solutionrelative:webapitempalate.infrastructure\\repositories\\pricebook2itemsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8F7F5A-E2AC-4838-BF2A-C32B4D220E9A}|WebAPITempalate.Infrastructure\\WebAPITempalate.Infrastructure.csproj|c:\\users\\rnava\\myproject\\mytestproject\\webapitempalate\\webapitempalate.infrastructure\\data\\mssqlcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8F7F5A-E2AC-4838-BF2A-C32B4D220E9A}|WebAPITempalate.Infrastructure\\WebAPITempalate.Infrastructure.csproj|solutionrelative:webapitempalate.infrastructure\\data\\mssqlcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE2F2E5-0B62-4FC5-84EC-8EA305D22ABE}|WebAPITempalate.Domain\\WebAPITempalate.Domain.csproj|c:\\users\\rnava\\myproject\\mytestproject\\webapitempalate\\webapitempalate.domain\\model\\pricebook2items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE2F2E5-0B62-4FC5-84EC-8EA305D22ABE}|WebAPITempalate.Domain\\WebAPITempalate.Domain.csproj|solutionrelative:webapitempalate.domain\\model\\pricebook2items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969B4205-46DB-494D-828B-5C7514DA2765}|WebAPITempalate.Application\\WebAPITempalate.Application.csproj|c:\\users\\rnava\\myproject\\mytestproject\\webapitempalate\\webapitempalate.application\\service\\pricebook2itemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969B4205-46DB-494D-828B-5C7514DA2765}|WebAPITempalate.Application\\WebAPITempalate.Application.csproj|solutionrelative:webapitempalate.application\\service\\pricebook2itemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969B4205-46DB-494D-828B-5C7514DA2765}|WebAPITempalate.Application\\WebAPITempalate.Application.csproj|c:\\users\\rnava\\myproject\\mytestproject\\webapitempalate\\webapitempalate.application\\service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969B4205-46DB-494D-828B-5C7514DA2765}|WebAPITempalate.Application\\WebAPITempalate.Application.csproj|solutionrelative:webapitempalate.application\\service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969B4205-46DB-494D-828B-5C7514DA2765}|WebAPITempalate.Application\\WebAPITempalate.Application.csproj|c:\\users\\rnava\\myproject\\mytestproject\\webapitempalate\\webapitempalate.application\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969B4205-46DB-494D-828B-5C7514DA2765}|WebAPITempalate.Application\\WebAPITempalate.Application.csproj|solutionrelative:webapitempalate.application\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969B4205-46DB-494D-828B-5C7514DA2765}|WebAPITempalate.Application\\WebAPITempalate.Application.csproj|c:\\users\\rnava\\myproject\\mytestproject\\webapitempalate\\webapitempalate.application\\interfaces\\ipricebook2itemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969B4205-46DB-494D-828B-5C7514DA2765}|WebAPITempalate.Application\\WebAPITempalate.Application.csproj|solutionrelative:webapitempalate.application\\interfaces\\ipricebook2itemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE2F2E5-0B62-4FC5-84EC-8EA305D22ABE}|WebAPITempalate.Domain\\WebAPITempalate.Domain.csproj|c:\\users\\rnava\\myproject\\mytestproject\\webapitempalate\\webapitempalate.domain\\model\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE2F2E5-0B62-4FC5-84EC-8EA305D22ABE}|WebAPITempalate.Domain\\WebAPITempalate.Domain.csproj|solutionrelative:webapitempalate.domain\\model\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969B4205-46DB-494D-828B-5C7514DA2765}|WebAPITempalate.Application\\WebAPITempalate.Application.csproj|c:\\users\\rnava\\myproject\\mytestproject\\webapitempalate\\webapitempalate.application\\webapitempalate.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{969B4205-46DB-494D-828B-5C7514DA2765}|WebAPITempalate.Application\\WebAPITempalate.Application.csproj|solutionrelative:webapitempalate.application\\webapitempalate.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C127B9C1-87BA-4719-9DE8-B53AEEA5B223}|WebAPITempalate\\WebAPITempalate.API.csproj|c:\\users\\rnava\\myproject\\mytestproject\\webapitempalate\\webapitempalate\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C127B9C1-87BA-4719-9DE8-B53AEEA5B223}|WebAPITempalate\\WebAPITempalate.API.csproj|solutionrelative:webapitempalate\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE2F2E5-0B62-4FC5-84EC-8EA305D22ABE}|WebAPITempalate.Domain\\WebAPITempalate.Domain.csproj|c:\\users\\rnava\\myproject\\mytestproject\\webapitempalate\\webapitempalate.domain\\webapitempalate.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AAE2F2E5-0B62-4FC5-84EC-8EA305D22ABE}|WebAPITempalate.Domain\\WebAPITempalate.Domain.csproj|solutionrelative:webapitempalate.domain\\webapitempalate.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPITempalate\\Program.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate\\Program.cs",
+              "RelativeToolTip": "WebAPITempalate\\Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAACcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T02:38:06.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebAPITempalate\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebAPITempalate\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T02:24:50.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate.Infrastructure\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "WebAPITempalate.Infrastructure\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate.Infrastructure\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "WebAPITempalate.Infrastructure\\Data\\AppDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T02:53:30.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pricebook2ItemsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate.Infrastructure\\Repositories\\Pricebook2ItemsRepo.cs",
+              "RelativeDocumentMoniker": "WebAPITempalate.Infrastructure\\Repositories\\Pricebook2ItemsRepo.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate.Infrastructure\\Repositories\\Pricebook2ItemsRepo.cs",
+              "RelativeToolTip": "WebAPITempalate.Infrastructure\\Repositories\\Pricebook2ItemsRepo.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowCIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T03:02:22.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MsSqlCon.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate.Infrastructure\\Data\\MsSqlCon.cs",
+              "RelativeDocumentMoniker": "WebAPITempalate.Infrastructure\\Data\\MsSqlCon.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate.Infrastructure\\Data\\MsSqlCon.cs",
+              "RelativeToolTip": "WebAPITempalate.Infrastructure\\Data\\MsSqlCon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T02:31:32.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pricebook2ItemsService.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate.Application\\Service\\Pricebook2ItemsService.cs",
+              "RelativeDocumentMoniker": "WebAPITempalate.Application\\Service\\Pricebook2ItemsService.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate.Application\\Service\\Pricebook2ItemsService.cs",
+              "RelativeToolTip": "WebAPITempalate.Application\\Service\\Pricebook2ItemsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T03:05:03.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPricebook2ItemsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate.Infrastructure\\InterfacesRepo\\IPricebook2ItemsRepo.cs",
+              "RelativeDocumentMoniker": "WebAPITempalate.Infrastructure\\InterfacesRepo\\IPricebook2ItemsRepo.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate.Infrastructure\\InterfacesRepo\\IPricebook2ItemsRepo.cs",
+              "RelativeToolTip": "WebAPITempalate.Infrastructure\\InterfacesRepo\\IPricebook2ItemsRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T03:01:59.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebAPITempalate\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebAPITempalate\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAjwBkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T00:47:19.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPITempalate\\appsettings.json",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate\\appsettings.json",
+              "RelativeToolTip": "WebAPITempalate\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-15T02:32:23.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pricebook2Items.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate.Domain\\Model\\Pricebook2Items.cs",
+              "RelativeDocumentMoniker": "WebAPITempalate.Domain\\Model\\Pricebook2Items.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate.Domain\\Model\\Pricebook2Items.cs",
+              "RelativeToolTip": "WebAPITempalate.Domain\\Model\\Pricebook2Items.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T02:54:22.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate.Application\\Interfaces\\IJwtService.cs",
+              "RelativeDocumentMoniker": "WebAPITempalate.Application\\Interfaces\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate.Application\\Interfaces\\IJwtService.cs",
+              "RelativeToolTip": "WebAPITempalate.Application\\Interfaces\\IJwtService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T00:44:03.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate.Application\\Service\\JwtService.cs",
+              "RelativeDocumentMoniker": "WebAPITempalate.Application\\Service\\JwtService.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate.Application\\Service\\JwtService.cs",
+              "RelativeToolTip": "WebAPITempalate.Application\\Service\\JwtService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwCIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T00:44:19.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAADkHAAAAAAAAAAAlwFYHAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-10T04:47:43.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPricebook2ItemsService.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate.Application\\Interfaces\\IPricebook2ItemsService.cs",
+              "RelativeDocumentMoniker": "WebAPITempalate.Application\\Interfaces\\IPricebook2ItemsService.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate.Application\\Interfaces\\IPricebook2ItemsService.cs",
+              "RelativeToolTip": "WebAPITempalate.Application\\Interfaces\\IPricebook2ItemsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T03:05:13.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate.Domain\\Model\\LoginModel.cs",
+              "RelativeDocumentMoniker": "WebAPITempalate.Domain\\Model\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate.Domain\\Model\\LoginModel.cs",
+              "RelativeToolTip": "WebAPITempalate.Domain\\Model\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T00:48:57.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WebAPITempalate.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate.Application\\WebAPITempalate.Application.csproj",
+              "RelativeDocumentMoniker": "WebAPITempalate.Application\\WebAPITempalate.Application.csproj",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate.Application\\WebAPITempalate.Application.csproj",
+              "RelativeToolTip": "WebAPITempalate.Application\\WebAPITempalate.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-19T07:18:49.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebAPITempalate\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate\\appsettings.Development.json",
+              "RelativeToolTip": "WebAPITempalate\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T06:27:10.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WebAPITempalate.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate.Domain\\WebAPITempalate.Domain.csproj",
+              "RelativeDocumentMoniker": "WebAPITempalate.Domain\\WebAPITempalate.Domain.csproj",
+              "ToolTip": "C:\\Users\\rnava\\MyProject\\MyTestProject\\WebAPITempalate\\WebAPITempalate.Domain\\WebAPITempalate.Domain.csproj",
+              "RelativeToolTip": "WebAPITempalate.Domain\\WebAPITempalate.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-15T02:39:37.97Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

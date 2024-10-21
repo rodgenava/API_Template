@@ -1,0 +1,15 @@
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Infrastructure\bin\Debug\net8.0\WebAPITempalate.Infrastructure.deps.json
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Infrastructure\bin\Debug\net8.0\WebAPITempalate.Infrastructure.dll
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Infrastructure\bin\Debug\net8.0\WebAPITempalate.Infrastructure.pdb
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Infrastructure\bin\Debug\net8.0\WebAPITempalate.Domain.dll
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Infrastructure\bin\Debug\net8.0\WebAPITempalate.Domain.pdb
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Infrastructure\obj\Debug\net8.0\WebAPITempalate.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Infrastructure\obj\Debug\net8.0\WebAPITempalate.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Infrastructure\obj\Debug\net8.0\WebAPITempalate.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Infrastructure\obj\Debug\net8.0\WebAPITempalate.Infrastructure.AssemblyInfo.cs
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Infrastructure\obj\Debug\net8.0\WebAPITempalate.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Infrastructure\obj\Debug\net8.0\WebAPITe.60C9FB3A.Up2Date
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Infrastructure\obj\Debug\net8.0\WebAPITempalate.Infrastructure.dll
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Infrastructure\obj\Debug\net8.0\refint\WebAPITempalate.Infrastructure.dll
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Infrastructure\obj\Debug\net8.0\WebAPITempalate.Infrastructure.pdb
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Infrastructure\obj\Debug\net8.0\ref\WebAPITempalate.Infrastructure.dll

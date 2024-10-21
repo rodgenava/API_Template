@@ -1,0 +1,11 @@
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Domain\bin\Debug\net6.0\WebAPITempalate.Domain.deps.json
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Domain\bin\Debug\net6.0\WebAPITempalate.Domain.dll
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Domain\bin\Debug\net6.0\WebAPITempalate.Domain.pdb
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Domain\obj\Debug\net6.0\WebAPITempalate.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Domain\obj\Debug\net6.0\WebAPITempalate.Domain.AssemblyInfoInputs.cache
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Domain\obj\Debug\net6.0\WebAPITempalate.Domain.AssemblyInfo.cs
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Domain\obj\Debug\net6.0\WebAPITempalate.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Domain\obj\Debug\net6.0\WebAPITempalate.Domain.dll
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Domain\obj\Debug\net6.0\refint\WebAPITempalate.Domain.dll
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Domain\obj\Debug\net6.0\WebAPITempalate.Domain.pdb
+C:\Users\rnava\MyProject\MyTestProject\WebAPITempalate\WebAPITempalate.Domain\obj\Debug\net6.0\ref\WebAPITempalate.Domain.dll
